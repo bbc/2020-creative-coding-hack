@@ -12,6 +12,12 @@
     "link": "https://editor.p5js.org/ChrisKay/full/9kCTUPYmt"
   },
   {
+    "title": "Advent Calendar",
+    "author": "Katie Hassell",
+    "image": "images/advent.png",
+    "link": "https://hassk.s3-eu-west-1.amazonaws.com/index.html"
+  },
+  {
     "title": "Rule 106",
     "author": "Jamie McMillan",
     "image": "images/rule_106.png",
@@ -64,5 +70,11 @@
     "author": "Lucy Copp",
     "image": "images/snowman.png",
     "link": "http://snowman-lucycopp.s3-website-eu-west-1.amazonaws.com/index.html"
+  },
+  {
+    "title": "Denise Lewis Heptathlon",
+    "author": "Josh Everett",
+    "image": "images/denise_lewis.png",
+    "link": "https://github.com/josh9595/DeniseLewisHurdles"
   }
 ]
