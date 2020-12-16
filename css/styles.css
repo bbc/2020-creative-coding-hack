@@ -1,0 +1,58 @@
+body {
+  font-family: sans-serif;
+}
+
+h1 {
+  width: 100%;
+  text-align: center;
+}
+
+.projects {
+  display: grid;
+
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  grid-template-rows: repeat(auto-fill, fit-content);
+
+  gap: 15px;
+}
+
+.project {
+  display: block;
+  background: whitesmoke;
+
+  padding: 20px 30px;
+  border-radius: 15px;
+}
+
+.image {
+  width: 100%;
+  min-height: 250px;
+
+  margin-top: 10px;
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+  display: block;
+}
+
+.author {
+  font-style: italic;
+}
+
+h2 {
+  margin: 0;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+}
+
+a:hover {
+  color: black;
+  text-decoration: none;
+}
+
+a:hover h2 {
+  text-decoration: underline;
+}
